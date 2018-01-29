@@ -2,7 +2,7 @@
 #### Redmond, WA | (425) 559-1664  | <vennittah@outlook.com> | [Linkedin](https://linkedin.com/in/vennittah)
 
 ## EMPLOYMENT HISTORY 
->> **PORTFOLIO PROJECT MANAGER** recognized and awarded for not only solving complex business problems but also for delivering significant results. Has successfully led the implementation of several medium to large programs and projects. Manage various aspects of the lifecycle including ideation, definition, prioritization, estimation, budgeting, resourcing, road mapping and continuous delivery. Focused on total customer satisfaction and improving customer experience.  
+**PORTFOLIO PROJECT MANAGER** _recognized and awarded for not only solving complex business problems but also for delivering significant results. Has successfully led the implementation of several medium to large programs and projects. Manage various aspects of the lifecycle including ideation, definition, prioritization, estimation, budgeting, resourcing, road mapping and continuous delivery. Focused on total customer satisfaction and improving customer experience._  
  
  
 ### FOUNDER, Khaven Consulting                              2015 - Present 
@@ -68,7 +68,7 @@ _A multinational management consulting services company._
 
  
 ## EDUCATION 
-> * Master of Business Administration, Webster University, 2013 
+* Master of Business Administration, Webster University, 2013 
 * Bachelor of Science, Computer Science, Armstrong Atlantic State University, 1999 
  
 ## AWARDS
