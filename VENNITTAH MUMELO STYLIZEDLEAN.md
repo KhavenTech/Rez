@@ -2,7 +2,7 @@
 #### Redmond, WA | (425) 559-1664  | <vennittah@outlook.com> | [Linkedin](https://linkedin.com/in/vennittah)
 
 ## EMPLOYMENT HISTORY 
->> *PORTFOLIO PROJECT MANAGER* recognized and awarded for not only solving complex business problems but also for delivering significant results. Has successfully led the implementation of several medium to large programs and projects. Manage various aspects of the lifecycle including ideation, definition, prioritization, estimation, budgeting, resourcing, road mapping and continuous delivery. Focused on total customer satisfaction and improving customer experience.  
+>> **PORTFOLIO PROJECT MANAGER** recognized and awarded for not only solving complex business problems but also for delivering significant results. Has successfully led the implementation of several medium to large programs and projects. Manage various aspects of the lifecycle including ideation, definition, prioritization, estimation, budgeting, resourcing, road mapping and continuous delivery. Focused on total customer satisfaction and improving customer experience.  
  
  
 ### FOUNDER, Khaven Consulting                              2015 - Present 
@@ -72,11 +72,11 @@ _A multinational management consulting services company._
 * Bachelor of Science, Computer Science, Armstrong Atlantic State University, 1999 
  
 ## AWARDS
-> * Global Diversity Award for Journey to Africa  
+* Global Diversity Award for Journey to Africa  
 * IT Transformation Award for Journey to Africa & Africa Innovation Challenge 
 * H.E.A.R.T Award for successful implementation of Hyperion Budget & Forecasting application, Workforce Planning, Product Profitability, and Strategic Planning. 
 * S.P.O.T Award for Global Proxy Application Implementation & Support 
 * Competent Leader Award by Toastmasters 
 
 ### TECHNICAL SKILLS 
-> > Unix, Linux, Windows, Mac OS, iOS, Android Hyperion, C, C++, SQL, PL/SQL, HTML, Java, JavaScript, Prolog, Express, Ruby on Rails, Python, XML, Discoverer, BI Beans,  JIRA, Confluence, ChangePoint, MS Excel, Word, PowerPoint, Access, Outlook, Lync, Microsoft Project, Power BI.
+Unix, Linux, Windows, Mac OS, iOS, Android Hyperion, C, C++, SQL, PL/SQL, HTML, Java, JavaScript, Prolog, Express, Ruby on Rails, Python, XML, Discoverer, BI Beans,  JIRA, Confluence, ChangePoint, MS Excel, Word, PowerPoint, Access, Outlook, Lync, Microsoft Project, Power BI.
