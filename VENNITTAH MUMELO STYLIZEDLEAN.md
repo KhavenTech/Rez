@@ -1,7 +1,7 @@
 # VENNITTAH MUMELO                             
-####Redmond, WA | (425) 559-1664  | <vennittah@outlook.com> | [Linkedin](https://linkedin.com/in/vennittah)
+#### Redmond, WA | (425) 559-1664  | <vennittah@outlook.com> | [Linkedin](https://linkedin.com/in/vennittah)
 
-##EMPLOYMENT HISTORY 
+## EMPLOYMENT HISTORY 
 >> *PORTFOLIO PROJECT MANAGER* recognized and awarded for not only solving complex business problems but also for delivering significant results. Has successfully led the implementation of several medium to large programs and projects. Manage various aspects of the lifecycle including ideation, definition, prioritization, estimation, budgeting, resourcing, road mapping and continuous delivery. Focused on total customer satisfaction and improving customer experience.  
  
  
