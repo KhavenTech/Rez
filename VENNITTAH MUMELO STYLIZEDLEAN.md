@@ -4,8 +4,7 @@
 ## EMPLOYMENT HISTORY 
 **PORTFOLIO PROJECT MANAGER** _recognized and awarded for not only solving complex business problems but also for delivering significant results. Has successfully led the implementation of several medium to large programs and projects. Manage various aspects of the lifecycle including ideation, definition, prioritization, estimation, budgeting, resourcing, road mapping and continuous delivery. Focused on total customer satisfaction and improving customer experience._  
  
- 
-### FOUNDER, Khaven Consulting                              2015 - Present 
+### FOUNDER, Khaven Consulting                                                  2015 - Present 
 * Founded consulting firm to assist small businesses in improving technical issues and operational efficiencies
 * Manage client acquisition and business development
 * Manage project planning  & scheduling
@@ -68,8 +67,8 @@ _A multinational management consulting services company._
 
  
 ## EDUCATION 
-* Master of Business Administration, Webster University, 2013 
-* Bachelor of Science, Computer Science, Armstrong Atlantic State University, 1999 
+* Master of Business Administration, Webster University                               2013 
+* Bachelor of Science, Computer Science, Armstrong Atlantic State University          1999 
  
 ## AWARDS
 * Global Diversity Award for Journey to Africa  
@@ -78,5 +77,5 @@ _A multinational management consulting services company._
 * S.P.O.T Award for Global Proxy Application Implementation & Support 
 * Competent Leader Award by Toastmasters 
 
-### TECHNICAL SKILLS 
+## TECHNICAL SKILLS 
 Unix, Linux, Windows, Mac OS, iOS, Android Hyperion, C, C++, SQL, PL/SQL, HTML, Java, JavaScript, Prolog, Express, Ruby on Rails, Python, XML, Discoverer, BI Beans,  JIRA, Confluence, ChangePoint, MS Excel, Word, PowerPoint, Access, Outlook, Lync, Microsoft Project, Power BI.
