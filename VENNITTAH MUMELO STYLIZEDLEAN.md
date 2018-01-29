@@ -5,14 +5,14 @@
 >> *PORTFOLIO PROJECT MANAGER* recognized and awarded for not only solving complex business problems but also for delivering significant results. Has successfully led the implementation of several medium to large programs and projects. Manage various aspects of the lifecycle including ideation, definition, prioritization, estimation, budgeting, resourcing, road mapping and continuous delivery. Focused on total customer satisfaction and improving customer experience.  
  
  
-###FOUNDER, Khaven Consulting                              2015 - Present 
+### FOUNDER, Khaven Consulting                              2015 - Present 
 * Founded consulting firm to assist small businesses in improving technical issues and operational efficiencies
 * Manage client acquisition and business development
 * Manage project planning  & scheduling
 * Partnered to start a corporate catering company(**Rache Foods**); it now employs 3 full-time staff and 7 part-time staff 
 * Managed client relationships & business operations, e.g. collection of payments, staff scheduling, & event planning  
  
-###PROGRAM MANAGER, MasterCard                                                  2011 - 2014 
+### PROGRAM MANAGER, MasterCard                                                  2011 - 2014 
 _Technology company and payments industry leader._ 
 * Improved time-to-market by 93% by re-engineering the customer on-boarding process. 
 * Increased partnership across multiple business organizations by increasing awareness of initiatives and agility. 
@@ -38,26 +38,26 @@ _Technology company and payments industry leader._
 * Developed dashboard with operational metrics that showed SLA adherence, SOW compliance, tracked key issues, and progress of corrective action plans for management 
 * Demonstrated thought leadership and development of innovative solutions, which saved $120,000 in external consulting fees in 2008, and $80,000 in 2009
  
-###SENIOR CONSULTANT, Kraft Foods                                             2005 – 2007 
+### SENIOR CONSULTANT, Kraft Foods                                             2005 – 2007 
 _A multinational food and beverage company._ 
 * Created strategic migration plan for six business segments of the North American Business 
 * Led process improvement efforts to harmonize financial analysis applications for Latin America 
 * Instituted comprehensive Quality Assurance plan to improve performance, reduce defective implementations and customer downtime 
 
-###SENIOR CONSULTANT, Bacardi                                               2007 – 2007 
+### SENIOR CONSULTANT, Bacardi                                               2007 – 2007 
 _The largest privately held, family-owned spirits company in the world._ 
 * Developed on a new Need-to-bill Application for unbilled sales analysis 
 * Designed scripts for extraction and loading key competitive brand data 
 * Designed and Developed the Puerto Rico Finance Application for profitability analysis 
 * Reduced the daily processing time by 45% and monthly processing by 63% by creating automation scripts 
  
-###SENIOR CONSULTANT, Inter Public Group                                          2005 - 2005 
+### SENIOR CONSULTANT, Inter Public Group                                          2005 - 2005 
 _A global leader in modern marketing solutions; One of big 4 advertising companies in the world._ 
 * Evaluated existing system and identified root cause of inconsistencies in the marketing campaign data 
 * Produced system setup documentation for current Financial Analysis Application 
 * Created a Performance Tuning Plan for existing Financial Analysis Application 
 
-###LEAD SOFTWARE DEVELOPER, Accenture                                        2002 - 2005 
+### LEAD SOFTWARE DEVELOPER, Accenture                                        2002 - 2005 
 _A multinational management consulting services company._ 
 * Designed and developed 3 OFA Information and Analysis Systems which enabled faster data aggregation from 8 source systems  
 * Reduced system-wide document distribution time by 83% from 2hrs to 10mins by automating the process 
@@ -67,16 +67,16 @@ _A multinational management consulting services company._
 * Improved efficacy of applications developed by coaching the junior developers 
 
  
-##EDUCATION 
+## EDUCATION 
 > * Master of Business Administration, Webster University, 2013 
 * Bachelor of Science, Computer Science, Armstrong Atlantic State University, 1999 
  
-##AWARDS
+## AWARDS
 > * Global Diversity Award for Journey to Africa  
 * IT Transformation Award for Journey to Africa & Africa Innovation Challenge 
 * H.E.A.R.T Award for successful implementation of Hyperion Budget & Forecasting application, Workforce Planning, Product Profitability, and Strategic Planning. 
 * S.P.O.T Award for Global Proxy Application Implementation & Support 
 * Competent Leader Award by Toastmasters 
 
-###TECHNICAL SKILLS 
+### TECHNICAL SKILLS 
 > > Unix, Linux, Windows, Mac OS, iOS, Android Hyperion, C, C++, SQL, PL/SQL, HTML, Java, JavaScript, Prolog, Express, Ruby on Rails, Python, XML, Discoverer, BI Beans,  JIRA, Confluence, ChangePoint, MS Excel, Word, PowerPoint, Access, Outlook, Lync, Microsoft Project, Power BI.
