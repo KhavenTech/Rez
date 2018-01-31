@@ -2,14 +2,12 @@
 #### Redmond, WA | (425) 559-1664  | <vennittah@outlook.com> | [Linkedin](https://linkedin.com/in/vennittah)
 
 ## EMPLOYMENT HISTORY 
-**PORTFOLIO PROJECT MANAGER** _recognized and awarded for not only solving complex business problems but also for delivering significant results. Has successfully led the implementation of several medium to large programs and projects. Manage various aspects of the lifecycle including ideation, definition, prioritization, estimation, budgeting, resourcing, road mapping and continuous delivery. Focused on total customer satisfaction and improving customer experience._  
+**PORTFOLIO PROJECT MANAGER** _recognized and awarded for not only solving complex business problems but also for delivering significant results. Has successfully led the implementation of several medium to large programs and projects. Manages various aspects of the software lifecycle including ideation, definition, prioritization, estimation, budgeting, resourcing, road mapping and continuous delivery. Focused on business priorities and total customer satisfaction._  
  
 ### FOUNDER, Khaven Consulting                                                  2015 - Present 
 * Founded consulting firm to assist small businesses in improving technical issues and operational efficiencies
-* Manage client acquisition and business development
-* Manage project planning  & scheduling
-* Partnered to start a corporate catering company(**Rache Foods**); it now employs 3 full-time staff and 7 part-time staff 
-* Managed client relationships & business operations, e.g. collection of payments, staff scheduling, & event planning  
+* Managed business development, client relationships & business operations
+* Partnered to start a small catering company(**Rache Foods**); it now employs 3 full-time staff and 7 part-time staff 
  
 ### PROGRAM MANAGER, MasterCard                                                  2011 - 2014 
 _Technology company and payments industry leader._ 
@@ -18,9 +16,9 @@ _Technology company and payments industry leader._
 * Introduced Journey to Africa project planning model for MasterCard technical solutions to successfully support future business in multiple global locations 
  
 **PORTFOLIO PROJECT MANAGER**, MasterCard                                        2013 - 2014  
-* Established governance for discussion and approval of investments. 
+* Responsible for the financial stewardship, technical consultations, and relationaship management of the Corporate Functions Portfolio Investment Fund
 * Managed the Oracle eBusiness Suite (ERP and CRM system) upgrade to Release12 
-* Delivered the replacement solution for Access Pre-Paid Worldwide© (acquisition) with no service disruptions 
+* Delivered the conversion projects for Access Pre-Paid Worldwide© (acquisition) with no service disruptions 
  
  
 **PROJECT MANAGER**, MasterCard                                                  2012 - 2013 
@@ -45,7 +43,7 @@ _A multinational food and beverage company._
 
 ### SENIOR CONSULTANT, Bacardi                                               2007 – 2007 
 _The largest privately held, family-owned spirits company in the world._ 
-* Developed on a new Need-to-bill Application for unbilled sales analysis 
+* Developed a new Need-to-bill Application for unbilled sales analysis 
 * Designed scripts for extraction and loading key competitive brand data 
 * Designed and Developed the Puerto Rico Finance Application for profitability analysis 
 * Reduced the daily processing time by 45% and monthly processing by 63% by creating automation scripts 
@@ -78,4 +76,4 @@ _A multinational management consulting services company._
 * Competent Leader Award by Toastmasters 
 
 ## TECHNICAL SKILLS 
-Unix, Linux, Windows, Mac OS, iOS, Android Hyperion, C, C++, SQL, PL/SQL, HTML, Java, JavaScript, Prolog, Express, Ruby on Rails, Python, XML, Discoverer, BI Beans,  JIRA, Confluence, ChangePoint, MS Excel, Word, PowerPoint, Access, Outlook, Lync, Microsoft Project, Power BI.
+Unix, Linux, Windows, Mac OS, iOS, Android, Hyperion, C, C++, C#, SQL, PL/SQL, HTML, Java, JavaScript, Prolog, Express, Ruby on Rails, Python, Hadoop, XML, Discoverer, BI Beans, JIRA, Confluence, ChangePoint, MS Excel, Word, PowerPoint, Access, Outlook, Lync, Microsoft Project, Power BI.
